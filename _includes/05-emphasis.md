@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Italic Text*
+
+_Underscores and single asterisks are Italic_
+
+**Double asterisks make bold text**
+
+__Double underscores__
+
+_You **can** combine them_
+
+_Use **asterisks** and underscores to combine._
+
